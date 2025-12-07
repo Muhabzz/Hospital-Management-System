@@ -1,1 +1,0 @@
-# Ali for Bash
