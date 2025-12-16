@@ -1,6 +1,6 @@
 # Task 4 Done By : 
 ### Mohab --> System Adminstrator Diagram
-### Elsisy --> Supplier Diagram
-### Menna --> Accountat Diagram
-### Hany --> Lab Technical Diagram
+### Elsisy --> Pharmacist Diagram
+### Menna --> Lab Technical Diagram
+### Hany --> Patient Diagram
 ### Ali --> Doctor Diagram
